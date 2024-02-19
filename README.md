@@ -6,6 +6,10 @@ Follow along with [this tutorial on the Redpanda blog](https://redpanda.com/blog
 
 ----------
 
+##  Docs
+
+- https://redpanda.com/blog/data-lake-query-federation-tutorial
+  
 ## About Redpanda 
 
 Redpanda is Apache Kafka® API-compatible. Any client that works with Kafka will work with Redpanda, but we have tested the ones listed [here](https://docs.redpanda.com/docs/reference/faq/#what-clients-do-you-recommend-to-use-with-redpanda).
